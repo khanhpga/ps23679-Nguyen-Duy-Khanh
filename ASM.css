@@ -1,0 +1,143 @@
+header>img{
+    width: 150px;
+    float: left;
+}
+body{
+    margin: 0 12%;
+    background-color: papayawhip;
+}
+.menu li {
+    margin :auto;
+    padding: 0 40px;
+    font-size: 16px;
+    line-height: 160px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.menu li a{
+    color: black;
+    text-decoration: none;  
+}
+.dangky{
+    float: right;
+}
+
+.dangky li{
+    margin: 70px 0px;
+    background-color: darkgrey;
+    border: 1px solid black;
+    padding: 0 16px;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+ 
+}
+.dangky li a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    float: left;
+}
+.dangky li:hover{
+    background-color: aqua;
+}
+.dangky li a:hover{
+    color: yellow;
+}
+.menu li a:hover{
+    color:indigo;
+    text-decoration: none;
+    border: solid 2px palevioletred;
+    background-color: wheat;
+    font-variant: small-caps;
+}
+.Tieude{
+    color: aliceblue;
+    background-color: darkturquoise;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 45px;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+
+.Shop div{
+
+    width: 20%;
+    float: left;
+    margin: 25px;
+
+}
+.Shop img{
+    margin: 25px;
+    border: solid 1px red;
+    width: 80%;
+    border-radius: 40px;
+}
+h1{
+    text-align: center;
+    border: solid 1px red;
+    background-color: orange;
+}
+.Shop div a{
+    text-decoration: none;
+    color: white;
+}
+.Shop div a:hover{
+    color: red;
+}
+.form-group{
+    position: absolute;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    top: 200px;
+    left: 250px;
+}
+.khung{
+    border: 1px solid yellow;
+    background-color: wheat;
+    width: 700px;
+    height: 450px;
+    margin: 0 150px;
+}
+.Shop2 div{
+    width: 15%;
+    float: left;
+    margin: 25px;
+
+}
+.Shop2 img{
+    margin: 10px;
+    width: 80%;
+    border-radius: 40px;
+}
+p{
+    text-align: center;
+    border:solid 1px gray;
+    border-radius: 10px;
+}
+.p1{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+}
+.p2{
+    color: red;
+    border: solid 1px red;
+    text-transform: uppercase;
+}
+.p3{
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+    text-transform: uppercase;
+}
+.p2:hover{
+    background-color: white;
+}
+.p3:hover{
+    background-color: white;
+}
+
